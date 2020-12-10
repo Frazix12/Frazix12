@@ -25,7 +25,7 @@
 - [#termux termux-styling](https://www.youtube.com/watch?v=EIJ3_E0Rjyg)
 <!-- YOUTUBE:END -->
 
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.Frazix12.vercel.app/api?username=Frazix12&show_icons=true&hide_border=true" />
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Frazix12" />
 
 [website]: https://frazix.000webhostapp.com/
 [youtube]: https://www.youtube.com/channel/UCgiRfle1_JSaFV00XcUzfHQ/
