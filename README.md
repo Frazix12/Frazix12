@@ -20,6 +20,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [making an image holder with css clip path.](https://www.youtube.com/watch?v=sTrZU8K9EWc)
 - [#termux #discord  how to make a discord bot in androad](https://www.youtube.com/watch?v=_-2BXGjzTzg)
 - [#wordpress how to get a free wordpress website](https://www.youtube.com/watch?v=Fp8c3gTjLBY)
 - [#termux termux-styling](https://www.youtube.com/watch?v=EIJ3_E0Rjyg)
