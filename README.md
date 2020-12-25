@@ -20,6 +20,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [how to make a loding animation with only html and css](https://www.youtube.com/watch?v=CvunxltbFrk)
 - [making an image holder with css clip path.](https://www.youtube.com/watch?v=sTrZU8K9EWc)
 - [#termux #discord  how to make a discord bot in androad](https://www.youtube.com/watch?v=_-2BXGjzTzg)
 - [#wordpress how to get a free wordpress website](https://www.youtube.com/watch?v=Fp8c3gTjLBY)
