@@ -20,11 +20,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [how to make a discord bot with androad [easy way]](https://www.youtube.com/watch?v=vsOsmwhkzWs)
 - [how to make a loding animation with only html and css](https://www.youtube.com/watch?v=CvunxltbFrk)
 - [making an image holder with css clip path.](https://www.youtube.com/watch?v=sTrZU8K9EWc)
 - [#termux #discord  how to make a discord bot in androad](https://www.youtube.com/watch?v=_-2BXGjzTzg)
 - [#wordpress how to get a free wordpress website](https://www.youtube.com/watch?v=Fp8c3gTjLBY)
-- [#termux termux-styling](https://www.youtube.com/watch?v=EIJ3_E0Rjyg)
 <!-- YOUTUBE:END -->
 
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Frazix12" />
