@@ -1,16 +1,19 @@
-### Hi there, I'm Irfan - aka [code with Frazix][website]
+<img align="center" width="26px" src="" />
+
+### Hi there, I'm Irfan - aka [code with Frazix][youtube]
 
 ## I'm a Youtuber,Developer, and Teacher!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🔰 2021 Goals: Contribute more to Open Source projects
 - ⚄ Fun fact: I love to draw and play Games
 
-### Connect with me:
+### Languages and Tools:
 
-[<img align="left" alt="fraxix.000webhostapp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="code with frazix | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
+<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
+<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
+<img align="left" alt="node.js" width="28px" src="https://i.imgur.com/tYLFZBh.png" /> 
+<img align="left" alt="jsdom" width="26px" src="https://imgur.com/znELr8P.png" />
 
 <br />
 <br />
@@ -29,5 +32,5 @@
 
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Frazix12" />
 
-[website]: https://frazix.000webhostapp.com/
+[Discord]: https://frazix.000webhostapp.com/
 [youtube]: https://www.youtube.com/channel/UCgiRfle1_JSaFV00XcUzfHQ/
