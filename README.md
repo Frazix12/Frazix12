@@ -1,4 +1,4 @@
-<img align="center" width="26px" src="" />
+<img align="right" width="180px" src="20210509_065317.jpg" />
 
 ### Hi there, I'm Irfan - aka [code with Frazix][youtube]
 
