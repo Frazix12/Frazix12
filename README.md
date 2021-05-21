@@ -23,11 +23,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Discord.js bot with my Frazix Handler.[ep1]](https://www.youtube.com/watch?v=1MYRgPGro_A)
 - [How to make github notification bot for discord in phone.](https://www.youtube.com/watch?v=RjIP4_0clF8)
 - [How to make a discord music bot in just 3 minutes.](https://www.youtube.com/watch?v=JhIzvFXnQKQ)
 - [how to make a discord bot with android [easy way]](https://www.youtube.com/watch?v=vsOsmwhkzWs)
 - [how to make a loding animation with only html and css](https://www.youtube.com/watch?v=CvunxltbFrk)
-- [making an image holder with css clip path.](https://www.youtube.com/watch?v=sTrZU8K9EWc)
 <!-- YOUTUBE:END -->
 
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Frazix12" />
