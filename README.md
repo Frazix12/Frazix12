@@ -27,11 +27,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to make a 24/7 Auto Dank Memer.](https://www.youtube.com/watch?v=F2ecI7fr_dE)
 - [How to make a 24/7 Fun & Moderation bot.](https://www.youtube.com/watch?v=JgI9scdzKHU)
 - [Discord.js bot with my Frazix Handler.[ep1]](https://www.youtube.com/watch?v=1MYRgPGro_A)
 - [How to make github notification bot for discord in phone.](https://www.youtube.com/watch?v=RjIP4_0clF8)
 - [How to make a discord music bot in just 3 minutes.](https://www.youtube.com/watch?v=JhIzvFXnQKQ)
-- [how to make a discord bot with android [easy way]](https://www.youtube.com/watch?v=vsOsmwhkzWs)
 <!-- YOUTUBE:END -->
 
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Frazix12" />
