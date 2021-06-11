@@ -27,11 +27,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to win a Free Discord Nitro](https://www.youtube.com/watch?v=9yYNHvA0eIw)
 - [How To Get Your Discord User Token ON Android.](https://www.youtube.com/watch?v=tn3tPkd00pU)
 - [How to make a ChatBot with out coding.](https://www.youtube.com/watch?v=Q2Sjm0FqWBc)
 - [How to make a 24/7 Auto Dank Memer.](https://www.youtube.com/watch?v=F2ecI7fr_dE)
 - [How to make a 24/7 Fun & Moderation bot.](https://www.youtube.com/watch?v=JgI9scdzKHU)
-- [Discord.js bot with my Frazix Handler.[ep1]](https://www.youtube.com/watch?v=1MYRgPGro_A)
 <!-- YOUTUBE:END -->
 
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Frazix12" />
