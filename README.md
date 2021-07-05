@@ -27,11 +27,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to get my codes](https://www.youtube.com/watch?v=YcX1pqr4Ntw)
 - [How to make a discord music bot using lavalink](https://www.youtube.com/watch?v=lvDmevGtqLs)
 - [How to make a rank bot for discord](https://www.youtube.com/watch?v=XMiu3JexW9Q)
 - [How to make a Discord Backup bot](https://www.youtube.com/watch?v=WmqfsMgxhuQ)
 - [How to make a giveaway bot for discord in phone](https://www.youtube.com/watch?v=Pz_27aZYMSM)
-- [Music bot setup](https://www.youtube.com/watch?v=N-GheIM8D8o)
 <!-- YOUTUBE:END -->
 
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Frazix12" />
