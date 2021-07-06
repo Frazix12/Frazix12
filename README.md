@@ -1,28 +1,5 @@
-<img width="280px" src="20210509_065317.jpg" />
-
-
-
-
-
-### Hi there, I'm Irfan - aka [code with Frazix][youtube]
-
-## I'm a Youtuber,Developer, and Teacher!!
-
-- 🔰 2021 Goals: Contribute more to Open Source projects
-- ⚄ Fun fact: I love to draw and play Games
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
-<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="node.js" width="28px" src="https://i.imgur.com/tYLFZBh.png" /> 
-<img align="left" alt="jsdom" width="26px" src="https://imgur.com/znELr8P.png" />
-
-<br />
-<br />
-
----
+# [Code With Frazix][youtube]
+### Hi my name is Frazix and i like to make discord bots.If you want your own bot then join my [Discord server][Discord]
 
 ### 📺 Latest YouTube Videos
 
@@ -34,7 +11,16 @@
 - [How to make a giveaway bot for discord in phone](https://www.youtube.com/watch?v=Pz_27aZYMSM)
 <!-- YOUTUBE:END -->
 
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Frazix12" />
+```js
+const Code With Frazix = {
+  languages: ["Node.js", "Python"], //And so many
+  favoriteNumber: 4, //I like this number :)
+  ```
+ 
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Frazix12&theme=dracula"></div>
+<details>
+  <summary><b>GitHub</b> Activity</summary>  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Frazix12&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frazix12&theme=tokyonight&hide=batchfile">
+</details>
 
-[Discord]: https://frazix.000webhostapp.com/
+[Discord]: https://dsc.gg/cwf/
 [youtube]: https://www.youtube.com/channel/UCgiRfle1_JSaFV00XcUzfHQ/
