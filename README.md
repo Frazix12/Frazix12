@@ -4,11 +4,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to make a discord fun bot.](https://www.youtube.com/watch?v=10rfRWH2u6I)
 - [How To Make A Economy Bot](https://www.youtube.com/watch?v=lug5vLyM7dE)
 - [How to get my codes](https://www.youtube.com/watch?v=YcX1pqr4Ntw)
 - [How to make a discord music bot using lavalink](https://www.youtube.com/watch?v=lvDmevGtqLs)
 - [How to make a rank bot for discord](https://www.youtube.com/watch?v=XMiu3JexW9Q)
-- [How to make a Discord Backup bot](https://www.youtube.com/watch?v=WmqfsMgxhuQ)
 <!-- YOUTUBE:END -->
 
 ```js
