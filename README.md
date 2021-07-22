@@ -4,11 +4,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How To Make Discord Image Bot](https://www.youtube.com/watch?v=MrvZMZxwJoc)
 - [how to make a all in one auto farmer](https://www.youtube.com/watch?v=LHr3oD_lNXw)
 - [How to make a discord fun bot.](https://www.youtube.com/watch?v=10rfRWH2u6I)
 - [How To Make A Economy Bot](https://www.youtube.com/watch?v=lug5vLyM7dE)
 - [How to get my codes](https://www.youtube.com/watch?v=YcX1pqr4Ntw)
-- [How to make a discord music bot using lavalink](https://www.youtube.com/watch?v=lvDmevGtqLs)
 <!-- YOUTUBE:END -->
 
 ```js
