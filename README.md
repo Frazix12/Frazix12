@@ -4,11 +4,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to make a 24/7 Music bot.](https://www.youtube.com/watch?v=oqEXmESBQBs)
 - [Auto idel miner in replit](https://www.youtube.com/watch?v=13UMcDU6dQc)
 - [How To Make Discord Image Bot](https://www.youtube.com/watch?v=MrvZMZxwJoc)
 - [how to make a all in one auto farmer](https://www.youtube.com/watch?v=LHr3oD_lNXw)
 - [How to make a discord fun bot.](https://www.youtube.com/watch?v=10rfRWH2u6I)
-- [How To Make A Economy Bot](https://www.youtube.com/watch?v=lug5vLyM7dE)
 <!-- YOUTUBE:END -->
 
 ```js
