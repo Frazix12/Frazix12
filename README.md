@@ -4,11 +4,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How To Install Better Discord](https://www.youtube.com/watch?v=-7HDwBIYZdU)
 - [How to set up NOVA](https://www.youtube.com/watch?v=VzDj2kyfNtg)
 - [How to make a 24/7 Music bot.](https://www.youtube.com/watch?v=oqEXmESBQBs)
 - [Auto idel miner in replit](https://www.youtube.com/watch?v=13UMcDU6dQc)
 - [How To Make Discord Image Bot](https://www.youtube.com/watch?v=MrvZMZxwJoc)
-- [how to make a all in one auto farmer](https://www.youtube.com/watch?v=LHr3oD_lNXw)
 <!-- YOUTUBE:END -->
 
 ```js
