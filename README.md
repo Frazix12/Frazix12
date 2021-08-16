@@ -4,11 +4,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to make a discord bot website [Bot site v2]](https://www.youtube.com/watch?v=G6p8_eQ7Mrw)
 - [How to make discord bot website](https://www.youtube.com/watch?v=rFzePcM-nJg)
 - [How To Install Better Discord](https://www.youtube.com/watch?v=-7HDwBIYZdU)
 - [How to set up NOVA](https://www.youtube.com/watch?v=VzDj2kyfNtg)
 - [How to make a 24/7 Music bot.](https://www.youtube.com/watch?v=oqEXmESBQBs)
-- [Auto idel miner in replit](https://www.youtube.com/watch?v=13UMcDU6dQc)
 <!-- YOUTUBE:END -->
 
 ```js
