@@ -4,11 +4,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to make your own bot client](https://www.youtube.com/watch?v=7aOcjgiVAv4)
 - [How To login As a Bot](https://www.youtube.com/watch?v=b8rwywCAJ40)
 - [How to make a discord bot website [Bot site v2]](https://www.youtube.com/watch?v=G6p8_eQ7Mrw)
 - [How to make discord bot website](https://www.youtube.com/watch?v=rFzePcM-nJg)
 - [How To Install Better Discord](https://www.youtube.com/watch?v=-7HDwBIYZdU)
-- [How to set up NOVA](https://www.youtube.com/watch?v=VzDj2kyfNtg)
 <!-- YOUTUBE:END -->
 
 ```js
