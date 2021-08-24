@@ -4,11 +4,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to mine Litecoin in google colab](https://www.youtube.com/watch?v=lQdWeOlpDng)
 - [How to use my discordjs v13 Command handler in replit.](https://www.youtube.com/watch?v=2J2mXyD7pD8)
 - [how to make a 1.17 minecraft server.](https://www.youtube.com/watch?v=0gMet1m5ubA)
 - [How to make your own bot client](https://www.youtube.com/watch?v=7aOcjgiVAv4)
 - [How To login As a Bot](https://www.youtube.com/watch?v=b8rwywCAJ40)
-- [How to make a discord bot website [Bot site v2]](https://www.youtube.com/watch?v=G6p8_eQ7Mrw)
 <!-- YOUTUBE:END -->
 
 ```js
