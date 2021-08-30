@@ -4,11 +4,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Create and publish your package to npm |  Easy tutorial](https://www.youtube.com/watch?v=GfEZn3AE6KY)
 - [NQN Bot | Discord.JS V13 | Without Coding](https://www.youtube.com/watch?v=WdhPPVpyzKw)
 - [How to make 24/7 Music bot.](https://www.youtube.com/watch?v=4SMuv3zRzIE)
 - [How to mine Litecoin in google colab](https://www.youtube.com/watch?v=lQdWeOlpDng)
 - [How to use my discordjs v13 Command handler in replit.](https://www.youtube.com/watch?v=2J2mXyD7pD8)
-- [how to make a 1.17 minecraft server.](https://www.youtube.com/watch?v=0gMet1m5ubA)
 <!-- YOUTUBE:END -->
 
 ```js
