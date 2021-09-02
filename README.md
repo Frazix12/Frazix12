@@ -4,11 +4,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to make Invite Tracker Clone.](https://www.youtube.com/watch?v=dJyJQy4LG-o)
 - [How to make Uptime bot](https://www.youtube.com/watch?v=c5k2SYcqjUA)
 - [Create and publish your package to npm |  Easy tutorial](https://www.youtube.com/watch?v=GfEZn3AE6KY)
 - [NQN Bot | Discord.JS V13 | Without Coding](https://www.youtube.com/watch?v=WdhPPVpyzKw)
 - [How to make 24/7 Music bot.](https://www.youtube.com/watch?v=4SMuv3zRzIE)
-- [How to mine Litecoin in google colab](https://www.youtube.com/watch?v=lQdWeOlpDng)
 <!-- YOUTUBE:END -->
 
 ```js
