@@ -4,11 +4,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to make milrato.dev clone in replit](https://www.youtube.com/watch?v=MCWCr6CTK4g)
 - [How To Make Advanced Music Bot For Discord.](https://www.youtube.com/watch?v=NdkNDy0cHV8)
 - [Advanced Discord Music Bot like Groovy  With Spotify Support 24/7 Service | Source Code Download](https://www.youtube.com/watch?v=X0HG7TCIiy4)
 - [How to make Invite Tracker Clone.](https://www.youtube.com/watch?v=dJyJQy4LG-o)
 - [How to make Uptime bot](https://www.youtube.com/watch?v=c5k2SYcqjUA)
-- [Create and publish your package to npm |  Easy tutorial](https://www.youtube.com/watch?v=GfEZn3AE6KY)
 <!-- YOUTUBE:END -->
 
 ```js
