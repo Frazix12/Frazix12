@@ -39,11 +39,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to make your own Ticket Tool](https://www.youtube.com/watch?v=-8fecfANmEg)
 - [How to make a join to create bot](https://www.youtube.com/watch?v=nZsbCKuJikg)
 - [Advanced Discord Music Bot like Groovy  With Spotify Support 24/7 Service | Source Code Download](https://www.youtube.com/watch?v=X0HG7TCIiy4)
 - [How to make Invite Tracker Clone.](https://www.youtube.com/watch?v=dJyJQy4LG-o)
 - [How to make Uptime bot](https://www.youtube.com/watch?v=c5k2SYcqjUA)
-- [Create and publish your package to npm |  Easy tutorial](https://www.youtube.com/watch?v=GfEZn3AE6KY)
 <!-- YOUTUBE:END -->
 
 ## 📊 My Github Stats
