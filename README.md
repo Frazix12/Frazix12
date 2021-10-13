@@ -39,11 +39,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [how to download any discord server emoji](https://www.youtube.com/watch?v=L0U-lyS4Rgg)
 - [My account got hacked!](https://www.youtube.com/watch?v=F4xpwxbl92w)
 - [Discord Server Nuke Bot In JS](https://www.youtube.com/watch?v=o-JszMrJyfo)
 - [How to make a join to create bot](https://www.youtube.com/watch?v=nZsbCKuJikg)
 - [Advanced Discord Music Bot like Groovy  With Spotify Support 24/7 Service | Source Code Download](https://www.youtube.com/watch?v=X0HG7TCIiy4)
-- [How to make Invite Tracker Clone.](https://www.youtube.com/watch?v=dJyJQy4LG-o)
 <!-- YOUTUBE:END -->
 
 ## 📊 My Github Stats
