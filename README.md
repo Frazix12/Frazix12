@@ -39,11 +39,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How To make REAPER-2.0](https://www.youtube.com/watch?v=b-j1FZKtmug)
 - [How to Make 500+ Commands Discord Bot](https://www.youtube.com/watch?v=xUKdPLdz3eI)
 - [Invite Tracker Clone V2](https://www.youtube.com/watch?v=9C-AbLA5GOQ)
 - [how to download any discord server emoji](https://www.youtube.com/watch?v=L0U-lyS4Rgg)
 - [My account got hacked!](https://www.youtube.com/watch?v=F4xpwxbl92w)
-- [Discord Server Nuke Bot In JS](https://www.youtube.com/watch?v=o-JszMrJyfo)
 <!-- YOUTUBE:END -->
 
 ## 📊 My Github Stats
