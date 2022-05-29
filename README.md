@@ -55,8 +55,9 @@
 
 # 🔥More Stuff
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <br />
   <a href="https://frazix.tk">
     <img src="https://skillicons.dev/icons?i=git,bash,docker,bootstrap,codepen,css,discord,bots,electron,express,figma,github,heroku,html,js,linux,md,mongodb,netlify,nextjs,nodejs,powershell,py,react,redis,sass,svg,tailwind,ts,vscode&perline=8" />
   </a>
