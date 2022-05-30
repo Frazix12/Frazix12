@@ -6,9 +6,9 @@
 <br>
 <br>
   <a href="https://www.youtube.com/c/CodeWithFrazix?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCgiRfle1_JSaFV00XcUzfHQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCgiRfle1_JSaFV00XcUzfHQ?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCgiRfle1_JSaFV00XcUzfHQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+  <a href="https://www.youtube.com/c/codewithfrazix">
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCgiRfle1_JSaFV00XcUzfHQ?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
   <a href="https://github.com/Frazix12?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Frazix12"/></a>
   <a href="https://github.com/Frazix12?tab=followers">
@@ -34,20 +34,20 @@
     <a href="https://www.youtube.com/c/CodeWithFrazix">
         <img src="./assets/icons/other/youtube-solid.svg/" width="25px" />
     </a>
-    
+
 </p>
 <hr/>
 <p align="center">
     <a href="https://github.com/Frazix12/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Frazix12&hide_border=true&theme=buefy-dark" />
-  </a> 
+  </a>
   <a href="https://github.com/Frazix12/">
         <img src="https://github-readme-stats.vercel.app/api?username=Frazix12&show_icons=true&bg_color=1a1a26&title_color=7856d5&text_color=fe3960" />
-  </a> 
+  </a>
 <br>
 <a href="https://github.com/Frazix12/">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frazix12&theme=radical&langs_count=8&layout=compact&bg_color=1a1a26&title_color=7856d5&text_color=fe3960" />
-  </a> 
+  </a>
   <a href="https://github.com/Frazix12/">
         <img src="https://github-profile-trophy.vercel.app/?username=Frazix12&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=3" />
   </a>
@@ -60,6 +60,9 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
   <br />
+  <h2 align="center">
+    💻 Stuff
+</h2>
   <a href="https://frazix.tk">
     <img src="https://skillicons.dev/icons?i=git,bash,docker,bootstrap,codepen,css,discord,bots,electron,express,figma,github,heroku,html,js,linux,md,mongodb,netlify,nextjs,nodejs,powershell,py,react,redis,sass,svg,tailwind,ts,vscode&perline=8" />
   </a>
