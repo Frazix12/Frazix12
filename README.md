@@ -24,15 +24,19 @@
 &nbsp;
 <p align="center">
     <a href="https://github.com/Frazix12/">
-        <img src="./assets/icons/other/github-solid.svg/" width="25px" />
+        <img src="./assets/icons/other/github.svg/" width="30px" />
     </a>
     &nbsp;
     <a href="https://discord.com/users/847030527822266378">
-        <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
+        <img src="./assets/icons/other/discord.svg/" width="30px" />
     </a>
     &nbsp;
     <a href="https://www.youtube.com/c/CodeWithFrazix">
-        <img src="./assets/icons/other/youtube-solid.svg/" width="25px" />
+        <img src="./assets/icons/other/youtube.svg/" width="30px" />
+    </a>
+     &nbsp;
+    <a href="https://www.buymeacoffee.com/frazix">
+        <img src="./assets/icons/other/buymeacoffee.svg/" width="30px" />
     </a>
 
 </p>
@@ -54,15 +58,10 @@
 </p>
 
 <h2 align="center">
-    🔥More Stuff
+    💻Tech I Use
 </h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-  <br />
-  <h2 align="center">
-    💻 Stuff
-</h2>
   <a href="https://frazix.tk">
     <img src="https://skillicons.dev/icons?i=git,bash,docker,bootstrap,codepen,css,discord,bots,electron,express,figma,github,heroku,html,js,linux,md,mongodb,netlify,nextjs,nodejs,powershell,py,react,redis,sass,svg,tailwind,ts,vscode&perline=8" />
   </a>
