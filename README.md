@@ -18,7 +18,7 @@
 <br>
 <br>
 <a href="https://discord.com/users/847030527822266378">
-        <img src="https://lanyard-profile-readme.vercel.app/api/847030527822266378?theme=dark&bg=1a1a26&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..."/>
+        <img src="https://lanyard-profile-readme.vercel.app/api/847030527822266378?theme=dark&bg=0d1117&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..."/>
     </a>
 </p>
 &nbsp;
@@ -43,17 +43,17 @@
 <hr/>
 <p align="center">
     <a href="https://github.com/Frazix12/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Frazix12&hide_border=true&theme=buefy-dark" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Frazix12&hide_border=true&theme=buefy-dark&background=0d1117" />
   </a>
   <a href="https://github.com/Frazix12/">
-        <img src="https://github-readme-stats.vercel.app/api?username=Frazix12&show_icons=true&bg_color=1a1a26&title_color=7856d5&text_color=fe3960" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Frazix12&show_icons=true&bg_color=0d1117&title_color=7856d5&text_color=fe3960" />
   </a>
 <br>
 <a href="https://github.com/Frazix12/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frazix12&theme=radical&langs_count=8&layout=compact&bg_color=1a1a26&title_color=7856d5&text_color=fe3960" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frazix12&theme=github_dark&langs_count=8&layout=compact&bg_color=0d1117&title_color=7856d5&text_color=fe3960" />
   </a>
   <a href="https://github.com/Frazix12/">
-        <img src="https://github-profile-trophy.vercel.app/?username=Frazix12&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=3" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Frazix12&no-bg=true&no-frame=false&no-bg=false&margin-w=4&row=2&column=3" />
   </a>
 </p>
 
