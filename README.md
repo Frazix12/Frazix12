@@ -43,7 +43,7 @@
 <hr/>
 <p align="center">
     <a href="https://github.com/Frazix12/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Frazix12&hide_border=true&theme=buefy-dark&background=0d1117" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Frazix12&&theme=buefy-dark&background=0d1117" />
   </a>
   <a href="https://github.com/Frazix12/">
         <img src="https://github-readme-stats.vercel.app/api?username=Frazix12&show_icons=true&bg_color=0d1117&title_color=7856d5&text_color=fe3960" />
