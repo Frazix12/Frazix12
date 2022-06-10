@@ -24,19 +24,19 @@
 &nbsp;
 <p align="center">
     <a href="https://github.com/Frazix12/">
-        <img src="./assets/icons/other/github.svg/" width="30px" />
+        <img src="https://raw.githubusercontent.com/Frazix12/Frazix12/main/assets/icons/other/github.svg" width="30px" />
     </a>
     &nbsp;
     <a href="https://discord.com/users/847030527822266378">
-        <img src="./assets/icons/other/discord.svg/" width="30px" />
+        <img src="https://raw.githubusercontent.com/Frazix12/Frazix12/main/assets/icons/other/discord.svg" width="30px" />
     </a>
     &nbsp;
     <a href="https://www.youtube.com/c/CodeWithFrazix">
-        <img src="./assets/icons/other/youtube.svg/" width="30px" />
+        <img src="https://raw.githubusercontent.com/Frazix12/Frazix12/main/assets/icons/other/youtube.svg" width="30px" />
     </a>
      &nbsp;
     <a href="https://www.buymeacoffee.com/frazix">
-        <img src="./assets/icons/other/buymeacoffee.svg/" width="30px" />
+        <img src="https://raw.githubusercontent.com/Frazix12/Frazix12/main/assets/icons/other/buymeacoffee.svg" width="30px" />
     </a>
 
 </p>
