@@ -1,56 +1,105 @@
-<h2 align="center">
-    Welcome to <strong>Frazix's </strong>profile!
-</h2>
-<p align="center">
-  <!-- <a href="https://github.com/Frazix12/"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20Discord%20Bot%20Dev;A%20Lot%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=7856d5&vCenter=true&size=22"></a> -->
-    <a href="https://github.com/Frazix12/"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=7856D5&center=true&vCenter=true&width=435&lines=A+dude+with+a+computer"></a>
-<br>
-<a href="https://discord.com/users/847030527822266378">
-        <img src="https://lanyard-profile-readme.vercel.app/api/847030527822266378?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..."/>
-    </a>
-</p>
-&nbsp;
-<p align="center">
-    <a href="https://github.com/Frazix12/">
-        <img src="https://raw.githubusercontent.com/Frazix12/Frazix12/main/assets/icons/other/github.svg" width="30px" />
-    </a>
-    &nbsp;
-    <a href="https://discord.com/users/847030527822266378">
-        <img src="https://raw.githubusercontent.com/Frazix12/Frazix12/main/assets/icons/other/discord.svg" width="30px" />
-    </a>
-    &nbsp;
-    <a href="https://www.youtube.com/c/CodeWithFrazix">
-        <img src="https://raw.githubusercontent.com/Frazix12/Frazix12/main/assets/icons/other/youtube.svg" width="30px" />
-    </a>
-     &nbsp;
-    <a href="https://www.buymeacoffee.com/frazix">
-        <img src="https://raw.githubusercontent.com/Frazix12/Frazix12/main/assets/icons/other/buymeacoffee.svg" width="30px" />
-    </a>
+<div align="center">
 
-</p>
-<hr/>
-<p align="center">
-    <a href="https://github.com/Frazix12/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Frazix12&&theme=buefy-dark&background=0d1117" />
-  </a>
-  <a href="https://github.com/Frazix12/">
-        <img src="https://github-readme-stats.vercel.app/api?username=Frazix12&show_icons=true&bg_color=0d1117&title_color=7856d5&text_color=fe3960" />
-  </a>
-<br>
-<a href="https://github.com/Frazix12/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frazix12&theme=github_dark&langs_count=8&layout=compact&bg_color=0d1117&title_color=7856d5&text_color=fe3960" />
-  </a>
-</p>
+# Irfan Hossain
 
-<h2 align="center">
-    💻Tech I Use
-</h2>
+### aka Frazix • Full-stack Developer • Anime Lover
+
+Hey, I'm Irfan 👋<br/>
+Full-stack developer from Bangladesh 🇧🇩<br/>
+Building clean, useful, fast web apps<br/>
 
 <p align="center">
-  <a href="https://frazix.tk">
-    <img src="https://skillicons.dev/icons?i=bash,css,discord,electron,express,github,html,js,mongodb,nodejs,powershell,next,redis,tailwind,ts,vscode&perline=8" />
-  </a>
+  <a href="https://irfu.ami.bd"><img src="https://shieldcn.dev/badge/irfu.ami.bd-ff79c6.svg?variant=branded&logo=logoColor=fff&size=lg" alt="Portfolio" /></a>
 </p>
 
-<!-- Variables -->
-[mainClolor]: fe3960
+
+</div>
+
+## 🌸 About Me
+
+```ts
+const irfan = {
+  handle: "Frazix12",
+  location: "Bangladesh 🇧🇩",
+  role: "Full-stack Developer",
+  vibe: "clean code, fast apps, anime openings on loop",
+  portfolio: "https://irfu.ami.bd",
+  currentlyBuilding: ["web apps", "developer tools", "useful products"],
+};
+```
+
+---
+
+## ✨ Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Frazix12/btebflow">
+  <img src="https://github-readme-stats-eight-olive-57.vercel.app/api/pin/?username=Frazix12&repo=btebflow&theme=radical&hide_border=true&border_radius=16" alt="btebflow repository card" />
+</a>
+<a href="https://github.com/Frazix12/AmarHisab">
+  <img src="https://github-readme-stats-eight-olive-57.vercel.app/api/pin/?username=Frazix12&repo=AmarHisab&theme=radical&hide_border=true&border_radius=16" alt="AmarHisab repository card" />
+</a>
+
+<p>
+  <a href="https://irfu.ami.bd"><img src="https://shieldcn.dev/badge/View-More%20Projects-8be9fd.svg?variant=branded&logo=rocket&logoColor=fff" alt="View more projects" /></a>
+</p>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://shieldcn.dev/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=fff&variant=branded" alt="TypeScript" />
+<img src="https://shieldcn.dev/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=000&variant=branded" alt="JavaScript" />
+<img src="https://shieldcn.dev/badge/React-61DAFB.svg?logo=react&logoColor=000&variant=branded" alt="React" />
+<img src="https://shieldcn.dev/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=fff&variant=branded" alt="Next.js" />
+<img src="https://shieldcn.dev/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=fff&variant=branded" alt="Node.js" />
+<img src="https://shieldcn.dev/badge/Bun-000000.svg?logo=bun&logoColor=fff&variant=branded" alt="Bun" />
+<img src="https://shieldcn.dev/badge/Docker-2496ED.svg?logo=docker&logoColor=fff&variant=branded" alt="Docker" />
+<img src="https://shieldcn.dev/badge/Git-F05032.svg?logo=git&logoColor=fff&variant=branded" alt="Git" />
+
+</div>
+
+---
+
+## 📊 GitHub Power Level
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-eight-olive-57.vercel.app/api?username=Frazix12&show_icons=true&theme=radical&hide_border=true&border_radius=16&include_all_commits=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-eight-olive-57.vercel.app/api/top-langs/?username=Frazix12&layout=compact&theme=radical&hide_border=true&border_radius=16" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=Frazix12&theme=radical&hide_border=true&border_radius=16" alt="GitHub streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Frazix12&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub trophies" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Frazix12&theme=redical&hide_border=true&radius=16&area=true" alt="GitHub activity graph" />
+
+</div>
+
+---
+
+## 🧭 Find Me Online
+
+<div align="center">
+
+<a href="https://irfu.ami.bd">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-ff79c6?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Visit my portfolio" />
+</a>
+<a href="https://github.com/Frazix12">
+  <img src="https://img.shields.io/badge/GitHub-Frazix12-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌙 *Code like a shōnen arc: train, fail, level up, repeat.*
+
+</div>
