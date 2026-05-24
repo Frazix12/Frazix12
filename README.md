@@ -1,45 +1,42 @@
-<div align="center">
-
-<table>
+<table align="center">
 <tr>
-<td valign="top">
+<td align="left">
 <pre>
-╭──────────────────────╮
-│  ●  ●  ●             │
-├──────────────────────┤
-│                      │
-│   > frazix_          │
-│                      │
-│   full-stack dev     │
-│   anime enjoyer      │
-│   always building    │
-│                      │
-╰──────────────────────╯
+      ／＞　 フ
+     | 　_　_| 
+   ／` ミ＿xノ 
+  /　　　　 |
+ /　 ヽ　　 ﾉ
+│　　|　|　|
+／￣|　　 |　|
+(￣ヽ＿_ヽ_)__)
+＼二)
 </pre>
 </td>
-<td valign="top">
+<td align="left">
 <pre>
-frazix@github ~ $
-──────────────────────────
- OS      : Bangladesh 🇧🇩
- Host    : github.com/Frazix12
- Uptime  : always building
- Shell   : TypeScript / JS
- DE      : React + Next.js
- WM      : Node.js + Bun
- Terminal: VS Code
- CPU     : Brain™ (overclocked)
- Memory  : anime OSTs on loop
-──────────────────────────
- 🟥 🟧 🟨 🟩 🟦 🟪 ⬛ ⬜
+frazix@github
+--------------
+OS       : Bangladesh
+Host     : github.com/Frazix12
+Uptime   : always building
+Shell    : TypeScript / JS
+DE       : React + Next.js
+WM       : Node.js + Bun
+Terminal : VS Code
+CPU      : Brain (overclocked)
+Memory   : anime OSTs on loop
+Portfolio: irfu.ami.bd
+
+■ ■ ■ ■ ■ ■ ■ ■
 </pre>
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <a href="https://irfu.ami.bd"><img src="https://shieldcn.dev/badge/irfu.ami.bd-ff79c6.svg?variant=branded&logo=logoColor=fff&size=lg" alt="Portfolio" /></a>
-</p>
+<div align="center">
+
+<a href="https://irfu.ami.bd"><img src="https://shieldcn.dev/badge/irfu.ami.bd-ff79c6.svg?variant=branded&logo=false&size=lg" alt="Portfolio" /></a>
 
 </div>
 
