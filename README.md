@@ -60,10 +60,10 @@ const irfan = {
 <div align="center">
 
 <a href="https://github.com/Frazix12/btebflow">
-  <img src="https://github-readme-stats-eight-olive-57.vercel.app/api/pin/?username=Frazix12&repo=btebflow&theme=tokyonight&hide_border=true&border_radius=16" alt="btebflow repository card" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Frazix12&repo=btebflow&theme=tokyonight&hide_border=true&border_radius=16" alt="btebflow repository card" />
 </a>
 <a href="https://github.com/Frazix12/AmarHisab">
-  <img src="https://github-readme-stats-eight-olive-57.vercel.app/api/pin/?username=Frazix12&repo=AmarHisab&theme=tokyonight&hide_border=true&border_radius=16" alt="AmarHisab repository card" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Frazix12&repo=AmarHisab&theme=tokyonight&hide_border=true&border_radius=16" alt="AmarHisab repository card" />
 </a>
 
 <p>
@@ -95,12 +95,12 @@ const irfan = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-eight-olive-57.vercel.app/api?username=Frazix12&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats-eight-olive-57.vercel.app/api/top-langs/?username=Frazix12&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" alt="Top languages" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Frazix12&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true" alt="GitHub stats" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Frazix12&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=Frazix12&theme=tokyonight&hide_border=true&border_radius=16" alt="GitHub streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Frazix12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub trophies" />
+<img src="https://trophy.ryglcloud.net/?username=Frazix12&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=3&rank=S,A,AA,AAA,SSS,SS" alt="GitHub trophies" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Frazix12&theme=tokyo-night&hide_border=true&radius=16&area=true" alt="GitHub activity graph" />
 
